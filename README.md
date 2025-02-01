@@ -36,6 +36,7 @@ Inside `index.html`:
 - [x] Updated the HTML tags so that they are correct and semantic
 - [x] Updated the closing tags so that they are correct
 - [x] Updated style.css to reflect the changes in index.html
+- [x] Updated README.md to reflect the changes in index.html and style.css
 
 ### Tips
 
