@@ -15,26 +15,23 @@ body {
     color: var(--bark-brown);
 }
 
-header {
+.header {
     display: flex;
     align-items: center;
-    justify-content: center;
+    justify-content: space-between;
     padding: 0 1rem;
-    font-size: 2em;
     background-color: var(--forest-dark-green);
     color: white;
     min-height: 5dvh;
 }
 
-img {
-    max-width: 20%;
-    max-height: 20%;
-    display: block;
-    margin-left: auto;
-    margin-right: auto;
+.image-container {
+    max-height: 100%;
+    display: flex;
+    justify-content: center;
 }
 
-main {
+.main {
     display: flex;
     flex-direction: column;
     padding: 1rem;
@@ -42,22 +39,22 @@ main {
     color: white;
 }
 
-article {
+.post-article {
     display: flex;
     flex-direction: column;
 }
 
-title {
+.title {
     align-self: center;
     padding: 0.25rem;
     margin: 0.25rem;
 }
 
-p {
+.paragraph {
     padding: 0.5rem;
 }
 
-footer {
+.footer {
     display: flex;
     justify-content: center;
     align-items: center;
