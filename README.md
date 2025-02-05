@@ -37,6 +37,7 @@ Inside `index.html`:
 - [x] Updated the closing tags so that they are correct
 - [x] Updated style.css to reflect the changes in index.html
 - [x] Updated README.md to reflect the changes in index.html and style.css
+- [x] Fixed an error (My Fault 😊) in style.css and updated index.html and README.md
 
 ### Tips
 
